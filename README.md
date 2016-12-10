@@ -24,4 +24,5 @@ $CSA->AgregarFormCSA(); `
 ` $archivos = $_FILES['archivoCSA']['name'];
 	$subirAC = new CSA();
 	$subirAC->SubirArchivosCSA($archivos); `
-Esta Funcion ya viene Agregada en la Clase al Final, se Ejecuta al Enviar el Form mediante la funcion agregada del Form
+	
+*Esta Funcion ya viene Agregada en la Clase al Final, se Ejecuta al Enviar el Form mediante la funcion agregada del Form*
